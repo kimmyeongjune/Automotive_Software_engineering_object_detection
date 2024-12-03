@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/chan/automotive_software_engineering/build",
+  "command": "/usr/bin/g++   -isystem /usr/include/opencv4  -g   -std=gnu++11 -o CMakeFiles/FaceDetection.dir/src/main.cpp.o -c /home/chan/automotive_software_engineering/src/main.cpp",
+  "file": "/home/chan/automotive_software_engineering/src/main.cpp"
+}
+]

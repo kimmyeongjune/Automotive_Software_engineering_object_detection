@@ -1,0 +1,3 @@
+/home/chan/automotive_software_engineering/build/CMakeFiles/rebuild_cache.dir
+/home/chan/automotive_software_engineering/build/CMakeFiles/edit_cache.dir
+/home/chan/automotive_software_engineering/build/CMakeFiles/FaceDetection.dir
