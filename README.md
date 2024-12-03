@@ -10,5 +10,5 @@
 ![image](https://github.com/kimmyeongjune/Automotive_Software_engineering_object_detection/blob/main/face/image_detect.png)
 
 ### video output
-![Video](https://github.com/kimmyeongjune/Automotive_Software_engineering_object_detection/blob/main/car/video1.avi)
-![Video](https://github.com/kimmyeongjune/Automotive_Software_engineering_object_detection/blob/main/car/output.avi)
+![Video](https://github.com/kimmyeongjune/Automotive_Software_engineering_object_detection/blob/main/car/video1_capture.png)
+![Video](https://github.com/kimmyeongjune/Automotive_Software_engineering_object_detection/blob/main/car/output_capture.png)
